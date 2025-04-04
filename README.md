@@ -1,3 +1,5 @@
+![Screenshot 2025-04-03 062708](https://github.com/user-attachments/assets/d849d878-f2af-40ca-88b4-a310e58c6aa6)
+![Screenshot 2025-04-03 062629](https://github.com/user-attachments/assets/2289af0c-53e9-4198-a196-98c9b085462b)
 # Titanic-project
 # Titanic Data Analysis with Power BI  
 
